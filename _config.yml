@@ -23,10 +23,10 @@ timezone: Asia/Seoul
 
 title: 끄적임                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: 문제파악을 먼저. 개발보단 설계를. 할거면 제대로.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  cheonkyu
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
