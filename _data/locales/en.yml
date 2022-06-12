@@ -56,7 +56,7 @@ post:
   read_time:
     unit: min
     prompt: read
-  relate_posts: Further Reading
+  relate_posts: 읽을거리
   share: Share
   button:
     next: Newer
