@@ -1,0 +1,1 @@
+{ "name": "끄적임", "short_name": "끄적임", "description": "cheonkyu", "icons": [ { "src": "/assets/img/favicons/android-icon-192x192.png", "sizes": "192x192", "type": "image/png" } ], "start_url": "/index.html", "theme_color": "#2a1e6b", "background_color": "#ffffff", "display": "fullscreen" }
